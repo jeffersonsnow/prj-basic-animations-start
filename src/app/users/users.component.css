@@ -1,0 +1,4 @@
+:host {
+    display: block; 
+}
+/*This has to be set to block or triggers won't work when placed on the host*/
